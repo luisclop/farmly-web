@@ -15,7 +15,7 @@ const Landing: React.FC = () => {
         </p>
         <Link
           className="mt-8 flex h-12 w-40 items-center justify-center rounded-lg bg-teal-700 text-slate-100"
-          to="/login"
+          to="/marketplace"
         >
           Get Started
         </Link>
